@@ -21,7 +21,6 @@ ccmall是一个基于uniapp、springcloud alibaba的跨平台移动商城，致�
     
 2. 管理端（前端，基于vue开发 用于系统管理员操作资源权限）
 
-    地址：
      仓库 | 地址
     ---|---
     gitee  | [https://gitee.com/sjtucc/ccmall-uniapp/tree/master/ccmall-vue](https://gitee.com/sjtucc/ccmall-uniapp/tree/master/ccmall-vue)
