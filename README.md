@@ -16,12 +16,17 @@ ccmall是一个基于uniapp、springcloud alibaba的跨平台移动商城，致�
 
     仓库 | 地址
     ---|---
-    码云  | [https://gitee.com/sjtucc/ccmall-uniapp](https://gitee.com/sjtucc/ccmall-uniapp)
-    github     | [https://gitee.com/sjtucc/ccmall-uniapp](https://gitee.com/sjtucc/ccmall-uniapp)
+    gitee  | [https://gitee.com/sjtucc/ccmall-uniapp](https://gitee.com/sjtucc/ccmall-uniapp)
+    github     | [https://github.com/sjtucc/ccmall-uniapp](https://github.com/sjtucc/ccmall-uniapp)
     
 2. 管理端（前端，基于vue开发 用于系统管理员操作资源权限）
 
-    地址：[https://gitee.com/sjtucc/ccmall-uniapp/tree/master/ccmall-vue](https://gitee.com/sjtucc/ccmall-uniapp/tree/master/ccmall-vue)
+    地址：
+     仓库 | 地址
+    ---|---
+    gitee  | [https://gitee.com/sjtucc/ccmall-uniapp/tree/master/ccmall-vue](https://gitee.com/sjtucc/ccmall-uniapp/tree/master/ccmall-vue)
+    github | [https://github.com/sjtucc/ccmall-uniapp/tree/master/ccmall-vue](https://github.com/sjtucc/ccmall-uniapp/tree/master/ccmall-vue)
+        
 
 3. 服务端（**ccmall-cloud**后端，基于最新springcloud alibaba开发 完备的微服务脚手架与商城业务结合项目）
    
